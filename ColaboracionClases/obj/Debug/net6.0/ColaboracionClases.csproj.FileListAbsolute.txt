@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\ColaboracionClases\bin\Debug\net6.0\ColaboracionClases.exe
+C:\Users\usuario\source\repos\ColaboracionClases\bin\Debug\net6.0\ColaboracionClases.deps.json
+C:\Users\usuario\source\repos\ColaboracionClases\bin\Debug\net6.0\ColaboracionClases.runtimeconfig.json
+C:\Users\usuario\source\repos\ColaboracionClases\bin\Debug\net6.0\ColaboracionClases.dll
+C:\Users\usuario\source\repos\ColaboracionClases\bin\Debug\net6.0\ColaboracionClases.pdb
+C:\Users\usuario\source\repos\ColaboracionClases\obj\Debug\net6.0\ColaboracionClases.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ColaboracionClases\obj\Debug\net6.0\ColaboracionClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\ColaboracionClases\obj\Debug\net6.0\ColaboracionClases.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\ColaboracionClases\obj\Debug\net6.0\ColaboracionClases.AssemblyInfo.cs
+C:\Users\usuario\source\repos\ColaboracionClases\obj\Debug\net6.0\ColaboracionClases.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ColaboracionClases\obj\Debug\net6.0\ColaboracionClases.dll
+C:\Users\usuario\source\repos\ColaboracionClases\obj\Debug\net6.0\refint\ColaboracionClases.dll
+C:\Users\usuario\source\repos\ColaboracionClases\obj\Debug\net6.0\ColaboracionClases.pdb
+C:\Users\usuario\source\repos\ColaboracionClases\obj\Debug\net6.0\ColaboracionClases.genruntimeconfig.cache
+C:\Users\usuario\source\repos\ColaboracionClases\obj\Debug\net6.0\ref\ColaboracionClases.dll
